@@ -63,7 +63,7 @@ class Stopwatch extends Component {
         <div className="stopwatch-container">
           <h1 className="stopwatch">Stopwatch</h1>
           <div className="timer-container">
-            <div className="timer timer2">
+            <div className="timer">
               <img
                 className="timer-image"
                 src="https://assets.ccbp.in/frontend/react-js/stopwatch-timer.png"
