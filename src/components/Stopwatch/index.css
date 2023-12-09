@@ -27,7 +27,7 @@
 
 .stopwatch {
   color: #333333;
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif, Arial, Helvetica;
   font-size: 36px;
   font-weight: 500;
 }
